@@ -43,3 +43,5 @@ _backup_checkpoint/
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
